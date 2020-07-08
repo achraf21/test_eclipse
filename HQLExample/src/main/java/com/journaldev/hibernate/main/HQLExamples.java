@@ -16,6 +16,7 @@ public class HQLExamples {
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) {
 		try {
+			String commit="test commit";
 		//Prep work
 		SessionFactory sessionFactory = HibernateUtil.getSessionFactory();
 		Session session = sessionFactory.getCurrentSession();
