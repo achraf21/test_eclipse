@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HQLExample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ut2w40
+Implementation-Vendor-Id: com.journaldev.hibernate
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/HQLExample
+Created-By: Maven Integration for Eclipse
+
